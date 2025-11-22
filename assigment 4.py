@@ -1,4 +1,4 @@
-# Weather Data Visualizer – <ManoA kumar>
+# Weather Data Visualizer – <Manoj kumar>
 
 A mini project for the course **Programming for Problem Solving using Python**.  
 This project performs *real-world data cleaning, analysis, aggregation, and visualization* using weather datasets.
@@ -127,4 +127,5 @@ Subplot visualization for better comparison.
 
 ## 7. Dataset Source
 Mention your source (e.g., Kaggle, IMD Open Data Portal).
+
 
